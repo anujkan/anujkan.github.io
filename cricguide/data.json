@@ -1,0 +1,303 @@
+{
+  "schema": 1,
+  "generated_at": "2026-11-02T12:30:00+05:30",
+  "series": [
+    {
+      "id": "ind-in-nz-2026-27",
+      "name": "India tour of New Zealand 2026-27",
+      "type": "international",
+      "checked_at": "2026-11-02T12:30:00+05:30",
+      "watch": {
+        "IN": [
+          { "name": "Sony Sports Network", "kind": "tv", "free": false },
+          { "name": "Sony LIV", "kind": "ott", "free": false,
+            "app": { "android": "com.sonyliv", "url": "https://www.sonyliv.com" } }
+        ],
+        "PK": [],
+        "BD": []
+      },
+      "sources": [
+        "https://indiantelevision.com/television/sony-sports-network-unveils-india-tour-of-new-zealand-coverage-plans/",
+        "https://www.indianbroadcastingworld.com/sony-sports-network-sony/",
+        "https://x.com/SonySportsNetwk/status/2116731787292619166",
+        "https://www.cricinfo.com/series/india-in-new-zealand-odis-2026-27-1539423/match-schedule-fixtures-and-results",
+        "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-5th-t20i-1539436/match-report"
+      ]
+    },
+    {
+      "id": "pak-odi-tri-series-2026-27",
+      "name": "Pakistan ODI Tri-Series 2026",
+      "type": "international",
+      "checked_at": "2026-11-02T12:30:00+05:30",
+      "watch": {
+        "IN": [],
+        "PK": [{ "name": "PTV Sports", "kind": "tv", "free": true }],
+        "BD": []
+      },
+      "sources": [
+        "https://www.wisden.com/series/pakistan-vs-sri-lanka-m-2026/cricket-news/pak-vs-sl-t20is-live-streaming-and-tv-channels-where-to-watch-live-and-start-time-for-sri-lanka-tour-of-pakistan",
+        "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/pakistan-vs-sri-lanka-final-1550719/live-cricket-score",
+        "https://sports.yahoo.com/articles/pak-vs-sl-odi-tri-071107978.html"
+      ]
+    },
+    {
+      "id": "wi-in-ban-2026-27",
+      "name": "West Indies tour of Bangladesh 2026-27",
+      "type": "international",
+      "checked_at": "2026-11-02T12:30:00+05:30",
+      "watch": {
+        "IN": [{ "name": "FanCode", "kind": "ott", "free": false,
+                 "app": { "android": "com.dream11sportsguru", "url": "https://www.fancode.com" } }],
+        "PK": [{ "name": "Tapmad", "kind": "ott", "free": false, "app": { "url": "https://www.tapmad.com" } }],
+        "BD": [{ "name": "T Sports", "kind": "tv", "free": false }]
+      },
+      "sources": [
+        "https://www.fancode.com/cricket/tour/west-indies-tour-of-bangladesh-2026-19985462/matches",
+        "https://sports.yahoo.com/articles/watch-ban-vs-wi-test-153000353.html",
+        "https://www.cricinfo.com/series/west-indies-in-bangladesh-2026-27-1553291/match-schedule-fixtures-and-results"
+      ]
+    },
+    {
+      "id": "afg-v-zim-2026-27",
+      "name": "Afghanistan v Zimbabwe 2026-27 (in UAE)",
+      "type": "international",
+      "checked_at": "2026-11-02T12:30:00+05:30",
+      "watch": {
+        "IN": [{ "name": "FanCode", "kind": "ott", "free": false,
+                 "app": { "android": "com.dream11sportsguru", "url": "https://www.fancode.com" } }],
+        "PK": [],
+        "BD": []
+      },
+      "sources": [
+        "https://www.cricketwinner.com/cricket-news/afghanistan-vs-zimbabwe-1st-t20i-2026-live-streaming-tv-channel-india/",
+        "https://www.mrcricketuae.com/news/afg-vs-zim-2026-schedule-live-streaming-broadcasters-squads-and-all-you-need-to-know/",
+        "https://www.cricinfo.com/series/afghanistan-v-zimbabwe-2026-27-1555105/match-schedule-fixtures-and-results",
+        "https://www.icc-cricket.com/news/dominant-afghanistan-sweep-t20i-series-against-zimbabwe"
+      ]
+    },
+    {
+      "id": "sl-in-pak-2026-27",
+      "name": "Sri Lanka tour of Pakistan 2026-27",
+      "type": "international",
+      "checked_at": "2026-11-02T12:30:00+05:30",
+      "watch": {
+        "IN": [],
+        "PK": [{ "name": "PTV Sports", "kind": "tv", "free": true }],
+        "BD": []
+      },
+      "sources": [
+        "https://www.wisden.com/series/pakistan-vs-sri-lanka-m-2026/cricket-news/pak-vs-sl-t20is-live-streaming-and-tv-channels-where-to-watch-live-and-start-time-for-sri-lanka-tour-of-pakistan",
+        "https://www.newswire.lk/2026/10/09/how-to-watch-sri-lankas-2026-tour-of-pakistan-live/",
+        "https://www.cricinfo.com/series/sri-lanka-in-pakistan-2026-27-1550703/match-schedule-fixtures-and-results"
+      ]
+    },
+    {
+      "id": "eng-in-aus-2026-27",
+      "name": "England tour of Australia 2026-27",
+      "type": "international",
+      "checked_at": "2026-11-02T12:30:00+05:30",
+      "watch": { "IN": [], "PK": [], "BD": [] },
+      "sources": [
+        "https://www.cricinfo.com/series/england-in-australia-odis-2026-27-1528678/match-schedule-fixtures-and-results",
+        "https://www.cricket.com.au/matches/series/CA:4603/australia-v-england-odis-2026-men"
+      ]
+    },
+    {
+      "id": "ban-in-sa-2026-27",
+      "name": "Bangladesh tour of South Africa 2026-27",
+      "type": "international",
+      "checked_at": "2026-11-02T12:30:00+05:30",
+      "watch": { "IN": [], "PK": [], "BD": [] },
+      "sources": [
+        "https://www.cricket.co.za/the-proteas-men-2026-27-home-fixtures-csa/"
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "id": "pak-sl-odi-final-2026-10-31",
+      "series_id": "pak-odi-tri-series-2026-27",
+      "title": "Final",
+      "team1": { "code": "PAK", "name": "Pakistan" },
+      "team2": { "code": "SL", "name": "Sri Lanka" },
+      "format": "ODI",
+      "start": "2026-10-31T13:30:00+05:30",
+      "venue": "Gaddafi Stadium, Lahore",
+      "status": "completed",
+      "result": "Pakistan won by 3 wickets"
+    },
+    {
+      "id": "nz-ind-t20i-5-2026-11-01",
+      "series_id": "ind-in-nz-2026-27",
+      "title": "5th T20I",
+      "team1": { "code": "NZ", "name": "New Zealand" },
+      "team2": { "code": "IND", "name": "India" },
+      "format": "T20",
+      "start": "2026-11-01T12:30:00+05:30",
+      "venue": "Seddon Park, Hamilton",
+      "status": "completed",
+      "result": "New Zealand won by 7 wickets"
+    },
+    {
+      "id": "afg-zim-t20i-3-2026-11-01",
+      "series_id": "afg-v-zim-2026-27",
+      "title": "3rd T20I",
+      "team1": { "code": "AFG", "name": "Afghanistan" },
+      "team2": { "code": "ZIM", "name": "Zimbabwe" },
+      "format": "T20",
+      "start": "2026-11-01T20:00:00+05:30",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "status": "completed",
+      "result": "Afghanistan won by 7 wickets"
+    },
+    {
+      "id": "nz-ind-odi-1-2026-11-04",
+      "series_id": "ind-in-nz-2026-27",
+      "title": "1st ODI",
+      "team1": { "code": "NZ", "name": "New Zealand" },
+      "team2": { "code": "IND", "name": "India" },
+      "format": "ODI",
+      "start": "2026-11-04T07:30:00+05:30",
+      "venue": "Eden Park, Auckland",
+      "status": "upcoming",
+      "result": null
+    },
+    {
+      "id": "ban-wi-test-2-2026-11-05",
+      "series_id": "wi-in-ban-2026-27",
+      "title": "2nd Test",
+      "team1": { "code": "BAN", "name": "Bangladesh" },
+      "team2": { "code": "WI", "name": "West Indies" },
+      "format": "TEST",
+      "start": "2026-11-05T09:00:00+05:30",
+      "venue": "Sylhet International Cricket Stadium, Sylhet",
+      "status": "upcoming",
+      "result": null,
+      "days": 5
+    },
+    {
+      "id": "afg-zim-test-1-2026-11-05",
+      "series_id": "afg-v-zim-2026-27",
+      "title": "1st Test",
+      "team1": { "code": "AFG", "name": "Afghanistan" },
+      "team2": { "code": "ZIM", "name": "Zimbabwe" },
+      "format": "TEST",
+      "start": "2026-11-05T11:30:00+05:30",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "status": "upcoming",
+      "result": null,
+      "days": 5
+    },
+    {
+      "id": "nz-ind-odi-2-2026-11-07",
+      "series_id": "ind-in-nz-2026-27",
+      "title": "2nd ODI",
+      "team1": { "code": "NZ", "name": "New Zealand" },
+      "team2": { "code": "IND", "name": "India" },
+      "format": "ODI",
+      "start": "2026-11-07T07:30:00+05:30",
+      "venue": "HNRY Stadium, Wellington",
+      "status": "upcoming",
+      "result": null
+    },
+    {
+      "id": "pak-sl-test-1-2026-11-09",
+      "series_id": "sl-in-pak-2026-27",
+      "title": "1st Test",
+      "team1": { "code": "PAK", "name": "Pakistan" },
+      "team2": { "code": "SL", "name": "Sri Lanka" },
+      "format": "TEST",
+      "start": "2026-11-09T10:00:00+05:30",
+      "venue": "Rawalpindi Cricket Stadium, Rawalpindi",
+      "status": "upcoming",
+      "result": null,
+      "days": 5
+    },
+    {
+      "id": "nz-ind-odi-3-2026-11-10",
+      "series_id": "ind-in-nz-2026-27",
+      "title": "3rd ODI",
+      "team1": { "code": "NZ", "name": "New Zealand" },
+      "team2": { "code": "IND", "name": "India" },
+      "format": "ODI",
+      "start": "2026-11-10T07:30:00+05:30",
+      "venue": "Seddon Park, Hamilton",
+      "status": "upcoming",
+      "result": null
+    },
+    {
+      "id": "nz-ind-odi-4-2026-11-13",
+      "series_id": "ind-in-nz-2026-27",
+      "title": "4th ODI",
+      "team1": { "code": "NZ", "name": "New Zealand" },
+      "team2": { "code": "IND", "name": "India" },
+      "format": "ODI",
+      "start": "2026-11-13T07:30:00+05:30",
+      "venue": "Bay Oval, Mount Maunganui",
+      "status": "upcoming",
+      "result": null
+    },
+    {
+      "id": "aus-eng-odi-1-2026-11-13",
+      "series_id": "eng-in-aus-2026-27",
+      "title": "1st ODI",
+      "team1": { "code": "AUS", "name": "Australia" },
+      "team2": { "code": "ENG", "name": "England" },
+      "format": "ODI",
+      "start": "2026-11-13T09:00:00+05:30",
+      "venue": "Perth Stadium, Perth",
+      "status": "upcoming",
+      "result": null
+    },
+    {
+      "id": "afg-zim-test-2-2026-11-13",
+      "series_id": "afg-v-zim-2026-27",
+      "title": "2nd Test",
+      "team1": { "code": "AFG", "name": "Afghanistan" },
+      "team2": { "code": "ZIM", "name": "Zimbabwe" },
+      "format": "TEST",
+      "start": "2026-11-13T11:30:00+05:30",
+      "venue": "Sharjah Cricket Stadium, Sharjah",
+      "status": "upcoming",
+      "result": null,
+      "days": 5
+    },
+    {
+      "id": "nz-ind-odi-5-2026-11-15",
+      "series_id": "ind-in-nz-2026-27",
+      "title": "5th ODI",
+      "team1": { "code": "NZ", "name": "New Zealand" },
+      "team2": { "code": "IND", "name": "India" },
+      "format": "ODI",
+      "start": "2026-11-15T07:30:00+05:30",
+      "venue": "Bay Oval, Mount Maunganui",
+      "status": "upcoming",
+      "result": null
+    },
+    {
+      "id": "aus-eng-odi-2-2026-11-15",
+      "series_id": "eng-in-aus-2026-27",
+      "title": "2nd ODI",
+      "team1": { "code": "AUS", "name": "Australia" },
+      "team2": { "code": "ENG", "name": "England" },
+      "format": "ODI",
+      "start": "2026-11-15T09:00:00+05:30",
+      "venue": "Adelaide Oval, Adelaide",
+      "status": "upcoming",
+      "result": null
+    },
+    {
+      "id": "sa-ban-test-1-2026-11-15",
+      "series_id": "ban-in-sa-2026-27",
+      "title": "1st Test",
+      "team1": { "code": "SA", "name": "South Africa" },
+      "team2": { "code": "BAN", "name": "Bangladesh" },
+      "format": "TEST",
+      "start": "2026-11-15T13:30:00+05:30",
+      "venue": "Wanderers Stadium, Johannesburg",
+      "status": "upcoming",
+      "result": null,
+      "days": 5
+    }
+  ]
+}
